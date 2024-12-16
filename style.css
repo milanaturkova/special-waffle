@@ -1,0 +1,64 @@
+
+body {
+    background-color: rgb(206, 101, 171);
+    margin: 0;
+
+
+        }
+.augseja-kaste {
+    width: 200px;
+    height:200px;
+    border: solid;
+    border-width:10px ;
+    background-color: rgb(226, 10, 136); 
+    padding: 20px;
+    display: inline-block;
+   }
+
+   
+   
+  .videja-kaste {
+width: 200px;
+height: 200px;
+background-color: blueviolet;
+border: solid;
+border-width: 20px;
+margin-left: 260px;
+position: fixed;
+top: 50px;
+left: 50px;
+
+
+    }
+    .apakseja-kaste {
+        width: 200px;
+        height: 200px;
+        background-color: blue;
+        border: solid;
+        border-width: 10px;
+        margin-left: 500px;
+        display: block;
+    }
+     .bilde
+    {
+        width: 300px;
+        float: left;
+    }
+
+    body {background-color: rgba(201, 76, 76, 0.3);}
+
+   ::after a unique and descriptive class name
+    
+    ::after Use a value from 400 to 900
+    
+    .playfair-display- {
+    
+      font-family: "Playfair Display", serif;
+    
+      font-optical-sizing: auto;
+    
+      font-weight: ;
+    
+      font-style: normal;
+    
+    }
